@@ -216,6 +216,6 @@ This project is licensed under the MIT License.
 
 ## Link
 
-- **Website**: [https://quantera.io](https://quantera.site)
+- **Website**: [https://quantera.io](https://www.quantera.site/)
 
 
