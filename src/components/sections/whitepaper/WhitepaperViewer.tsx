@@ -11,7 +11,7 @@ export function WhitepaperViewer() {
             </p>
             <div className="rounded-2xl border border-white/10 bg-bg-secondary/60 overflow-hidden h-[720px]">
                 <iframe
-                    src="https://drive.google.com/file/d/1FOPxovwUxLTFgLN5sDyH_zievsCk2sNT/view"
+                    src="https://drive.google.com/file/d/1FOPxovwUxLTFgLN5sDyH_zievsCk2sNT/preview" width="640" height="480" allow="autoplay"
                     className="w-full h-full"
                     title="Quantera Whitepaper"
                 />
