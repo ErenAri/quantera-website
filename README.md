@@ -1,7 +1,5 @@
 # Quantera (QNR) - Official Website
 
-![Quantera Banner](https://via.placeholder.com/1200x300/1a1b26/F2C14F?text=Quantera+%28QNR%29)
-
 ## About Quantera
 
 **Quantera (QNR)** is an ERC-20 utility token built on the Ethereum blockchain, designed to power a modular, scalable, and security-first decentralized ecosystem. With a fixed supply of **1 billion tokens**, Quantera prioritizes liquidity safety, ecosystem incentives, staking rewards, and a balanced multi-phase growth strategy.
